@@ -1,0 +1,11 @@
+1 K l
+2 A l
+3 A r
+4 A l
+5 A r
+6 A l
+7 A r
+8 A l
+
+@ Bochum-Ehrenfeld, Bochum West, Wattenscheid: 2 l, 3 r, 4 l, 5 r, 6 l, 7 r, 8 l
+@ Bochum-Langendreer West, Witten: 2 r, 3 l, 4 r, 5 l, 6 r, 7 l, 8 r

@@ -1,0 +1,19 @@
+2  K l
+3  K r
+4  K l
+5  K r
+6  A l
+7  A r
+8  A l
+10 A r
+11 A l
+16 A r
+18 A l
+20 A r
+21 A l
+23 A r
+26 A l
+31 A r
+
+@ Dortmund-Dorstfeld, Bochum Hbf, Hagen Hbf, Dortmund-Barop, Dortmund Signal Iduna Park, Dortmund-Huckarde Nord, Dortmund-Mengede: 6 l, 7 r, 8 l, 10 r, 11 l, 16 r, 18 l, 20 r, 21 l, 23 r, 26 l, 31 r
+@ Dortmund-Kirchderne, Dortmund-Scharnhorst, Kamen, Dortmund-Kurl, Kamen-Methler: 6 r, 7 l, 8 r, 10 l, 11 r, 16 l, 18 r, 20 l, 21 r, 23 l, 26 r, 31 l

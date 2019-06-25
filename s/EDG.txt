@@ -1,0 +1,12 @@
+ 1 A r
+ 2 A l
+ 3 A r
+ 4 A l
+ 5 A r
+ 6 A l
+ 8 A r
+ 9 A l
+10 A r
+11 A l
+12 A r
+13 A l

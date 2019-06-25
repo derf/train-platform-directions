@@ -1,0 +1,10 @@
+ 1 A l
+ 2 A r
+ 3 A l
+ 4 A r
+ 5 A l
+
+@ Hasbergen, Osnabrück-Sutthausen: 1 l, 2 r, 3 l, 4 r, 5 l
+@ Bohmte: 1 r, 2 l, 3 r, 4 l, 5 r
+@ Osnabrück Altstadt: 11 l, 12 r, 13 l, 14 r
+@ Melle: 11 r, 12 l, 13 r, 14 l

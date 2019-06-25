@@ -1,0 +1,14 @@
+1  A l
+2  A r
+3  A l
+4  A r
+5  A l
+6  A r
+7  A l
+8  A r
+11 A r
+12 A l
+13 A r
+14 A l
+15 A r
+16 A l

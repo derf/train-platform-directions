@@ -1,0 +1,24 @@
+ 1 K r
+ 2 K l
+ 3 K r
+ 4 K l
+ 5 K r
+ 6 K l
+ 7 K r
+ 8 K l
+ 9 K r
+10 K l
+11 K r
+12 K l
+13 K r
+14 K l
+15 K r
+16 K l
+17 K r
+18 K l
+19 K r
+20 K l
+21 K r
+22 K l
+23 K r
+24 K l

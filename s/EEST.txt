@@ -1,0 +1,2 @@
+@ Essen Hbf: 104 l, 101 r
+@ Essen-Steele Ost: 101 l, 104 r

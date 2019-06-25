@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chmod -R a+rX /home/derf/var/projects/dbdb
+rsync -aP --delete /home/derf/var/projects/dbdb/ lib.finalrewind.org:web/org.finalrewind.lib/out/dbdb/

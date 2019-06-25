@@ -1,0 +1,25 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use 5.020;
+
+use Travel::Status::DE::IRIS::Stations;
+
+my $prev;
+
+for my $line (<>) {
+	if ($line =~ m{ evaId=" (?<eva> [^"]+ ) " \s* name=" (?<name> [^"]+ ) .* platform=" (?<platform> [^"]+ ) " }x ) {
+		my $eva = $+{eva};
+		my $name = $+{name};
+		my $platform = $+{platform};
+
+		my ($station) = Travel::Status::DE::IRIS::Stations::get_station($eva);
+
+		if ($prev) {
+			say "echo '@ $prev: $platform' >> s/$station->[0].txt";
+		}
+
+		$prev = $name;
+	}
+}

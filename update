@@ -1,0 +1,40 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use 5.020;
+
+use File::Slurp qw(read_file read_dir write_file);
+use JSON;
+
+my $json = JSON->new;
+
+for my $file (read_dir('s', prefix => 1)) {
+	if ($file !~ m{\.txt$}) {
+		next;
+	}
+	my %station;
+	for my $line (read_file($file)) {
+		if ($line =~ m{ ^ \s* (?<platform> \d+ ) \s+ (?<type> \S+ ) \s+ (?<direction> \S+ ) }x) {
+			$station{$+{platform}} = {
+				kopfgleis => $+{type} eq 'K' ? \1 : \0,
+				direction => $+{direction},
+			};
+		}
+		elsif ($line =~ m{ ^ @ \s* (?<stations> [^:]+ ) : \s* (?<platforms> .+ ) $ }x) {
+			my $stations_raw = $+{stations};
+			my $platforms_raw = $+{platforms};
+			my @stations = split(qr{, }, $stations_raw);
+			my @platforms = split(qr{, }, $platforms_raw);
+			for my $platform (@platforms) {
+				my ($number, $direction) = split(qr{ }, $platform);
+				for my $from_station (@stations) {
+					$station{$number}{direction_from}{$from_station} = $direction;
+				}
+			}
+		}
+	}
+	my $outfile = $file;
+	$outfile =~ s{txt}{json};
+	write_file($outfile, $json->encode(\%station));
+}

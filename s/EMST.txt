@@ -1,0 +1,11 @@
+ 2 A r
+ 3 A l
+ 4 A r
+ 8 A l
+ 9 A r
+12 A l
+14 A r
+17 A l
+
+@ Münster-Hiltrup, Münster-Albachten, Münster-Mecklenbeck: 2 r, 3 l, 4 r, 8 l, 9 r, 12 l, 14 r, 17 l
+@ Münster(W)Zentrum Nord, Greven, Westbevern, Telgte: 2 l, 3 r, 4 l, 8 r, 9 l, 12 r, 14 l, 17 r
