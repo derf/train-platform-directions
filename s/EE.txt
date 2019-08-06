@@ -13,4 +13,4 @@
 22 K l
 
 @ Mülheim(Ruhr)Hbf, Essen West, Essen-Borbeck: 1 r, 2 l, 4 r, 6 l, 7 r, 10 l, 11 r, 12 l
-@ Wattenscheid, Essen-Steele, Essen-Kray Nord, Essen-Kray Süd, Essen Süd, Gelsenkirchen Hbf: 1 l, 2 r, 4 l, 6 r, 7 l, 10 r, 11 l, 12 r
+@ Wattenscheid, Essen-Steele, Essen-Kray Nord, Essen-Kray Süd, Essen Süd, Gelsenkirchen Hbf, Essen-Werden: 1 l, 2 r, 4 l, 6 r, 7 l, 10 r, 11 l, 12 r

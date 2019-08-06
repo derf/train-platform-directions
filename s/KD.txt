@@ -1,19 +1,19 @@
- 4 r
- 5 l
- 6 r
- 7 l
- 9 r
-10 l
-11 r
-12 l
-13 r
-14 l
-15 r
-16 l
-17 r
-18 l
-19 r
-20 l
+ 4 A r
+ 5 A l
+ 6 A r
+ 7 A l
+ 9 A r
+10 A l
+11 A r
+12 A l
+13 A r
+14 A l
+15 A r
+16 A l
+17 A r
+18 A l
+19 A r
+20 A l
 
 @ Düsseldorf-Benrath, Düsseldorf Volksgarten, Düsseldorf Friedrichstadt, Neuss: 4 r, 5 l, 6 r, 7 l, 9 r, 10 l, 11 r, 12 l, 13 r, 14 l, 15 r, 16 l, 17 r, 18 l, 19 r, 20 l
 @ Düsseldorf Wehrhahn, Düsseldorf-Flingern, Düsseldorf Flughafen, Wuppertal-Vohwinkel: 4 l, 5 r, 6 l, 7 r, 9 l, 10 r, 11 l, 12 r, 13 l, 14 r, 15 l, 16 r, 17 l, 18 r, 19 l, 20 r
