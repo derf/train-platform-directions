@@ -1,0 +1,10 @@
+1 A l
+2 A r
+3 A l
+4 A r
+5 A l
+6 A r
+8 A l
+
+@ Brackwede, Gütersloh Hbf: 1 l, 2 r, 3 l, 4 r, 5 l, 6 r, 8 l
+@ Bielefeld Ost, Oerlinghausen, Brake, Herford: 1 r, 2 l, 3 r, 4 l, 5 r, 6 l, 8 r

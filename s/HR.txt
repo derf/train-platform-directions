@@ -1,0 +1,8 @@
+2 A r
+3 A l
+4 A r
+5 A l
+8 A r
+
+@ Rheine-Mesum, Emsdetten, Hörstel: 2 l, 3 r, 4 l, 5 r, 8 l
+@ Salzbergen: 2 r, 3 l, 4 r, 5 l, 8 r

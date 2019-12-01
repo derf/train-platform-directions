@@ -1,0 +1,10 @@
+1 A r
+2 A l
+3 A r
+4 A l
+5 A r
+6 A l
+7 A r
+
+@ Hiddenhausen-Schweicheln, Löhne(Westf): 1 l, 2 r, 3 l, 4 r, 5 l, 6 r, 7 l
+@ Brake(b Bielefeld), Bielefeld Hbf, Bad Salzuflen: 1 r, 2 l, 3 r, 4 l, 5 r, 6 l, 7 r
