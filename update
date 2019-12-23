@@ -6,6 +6,7 @@ use 5.020;
 
 use File::Slurp qw(read_file read_dir write_file);
 use JSON;
+use Travel::Status::DE::IRIS::Stations;
 
 my $json = JSON->new;
 
@@ -36,5 +37,9 @@ for my $file (read_dir('s', prefix => 1)) {
 	}
 	my $outfile = $file;
 	$outfile =~ s{txt}{json};
+	my ($station_name) = ($file =~ m{ s / ([^.]*) . txt }x);
 	write_file($outfile, $json->encode(\%station));
+
+	my ($station_id) = Travel::Status::DE::IRIS::Stations::get_station($station_name);
+	write_file('s/' . $station_id->[2] . '.json', $json->encode(\%station));
 }
