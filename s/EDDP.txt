@@ -1,2 +1,2 @@
-@ Dortmund-Dorstfeld Süd: 1 l, 2 r
-@ Dortmund Hbf: 1 r, 2 l
+@ Dortmund-Dorstfeld Süd, Dortmund-Marten Süd, Dortmund-Wischlingen: 1 l, 2 r, 3 r, 4 l, 5 r, 6 l
+@ Dortmund Hbf, Dortmund West: 1 r, 2 l, 3 l, 4 r, 5 l, 6 r
