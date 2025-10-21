@@ -1,0 +1,2 @@
+@ Frankfurt-Nied, Frankfurt(Main)Hbf: 1 r, 2 l, 3 r, 4 l, 5 r, 6 l, 7 r, 8 l, 10 r, 11 l, 12 r, 13 l
+@ Frankfurt-Unterliederbach, Frankfurt-Höchst Farbwerke, Hochheim(Main), Mainz-Kastel, Hofheim(Taunus): 1 l, 2 r, 3 l, 4 r, 5 l, 6 r, 7 l, 8 r, 10 l, 11 r, 12 l, 13 r
