@@ -1,0 +1,8 @@
+1 A r
+2 A l
+3 K l
+
+@ Meldorf, Itzehoe, Elmshorn, Hamburg-Altona, Hamburg Dammtor, Hamburg Hbf: 1 l, 2 r, 4 l, 5 r
+@ Lunden, Husum, Niebüll, Westerland(Sylt): 1 r, 2 l, 4 r, 5 l
+@ Nordhastedt, Hohenwestedt, Neumünster: 4 l, 5 r
+@ Tiebensee, Büsum: 4 r, 5 l

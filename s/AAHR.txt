@@ -1,0 +1,7 @@
+1 A l
+2 A r
+3 A l
+4 A r
+
+@ Ahrensburg-Gartenholz, Bargteheide, Bad Oldesloe, Reinfeld(Holst), Lübeck Hbf: 1 l, 2 r, 3 l, 4 r
+@ Hamburg-Rahlstedt, Hamburg Hasselbrook, Hamburg Hbf: 1 r, 2 l, 3 r, 4 l

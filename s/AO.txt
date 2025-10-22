@@ -1,0 +1,8 @@
+3 K l
+4 K r
+6 A l
+7 A r
+
+@ Lübeck Hbf, Reinfeld(Holst): 6 l, 7 r
+@ Hamburg Hbf, Hamburg-Harburg, Ahrensburg, Bargteheide, Kupfermühle: 5 l, 6 r, 7 l
+@ Neumünster, Bad Segeberg, Fresenburg: 5 r

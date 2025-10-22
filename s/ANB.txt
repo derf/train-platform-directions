@@ -1,0 +1,8 @@
+1 A l
+2 A r
+3 A l
+4 A r
+
+@ Langenhorn(Schlesw), Husum, Heide(Holst), Itzehoe, Elmshorn, Hamburg-Altona, Hamburg Dammtor, Hamburg Hbf: 1 r, 2 l, 3 r, 4 l
+@ Klanxbüll, Westerland(Sylt): 1 l, 2 r, 3 l, 4 r
+@ Uphusum, Toender st: 4 r

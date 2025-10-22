@@ -1,0 +1,9 @@
+1 A r
+2 A l
+3 A r
+4 A l
+5 A r
+6 A l
+
+@ Brokstedt, Wrist, Elmshorn, Hamburg Hbf, Hamburg-Dammtor, Hamburg-Harburg, Neumünster Süd AKN, Bad Segeberg, Bad Oldesloe: 1 l, 2 r, 3 l, 4 r, 5 l, 6 r
+@ Einfeld, Bordesholm, Kiel Hbf, Nortorf, Rendsburg, Schleswig, Flensburg, Neumünster Stadtwald: 1 r, 2 l, 3 r, 4 l, 5 r, 6 l

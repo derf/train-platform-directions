@@ -1,0 +1,7 @@
+2 A l
+3 A r
+4 A l
+5 A r
+
+@ Kremperheide, Glückstadt, Elmshorn, Hamburg-Dammtor, Hamburg Hbf, Hamburg-Harburg: 2 r, 3 l, 4 r, 5 l
+@ Wilster, Burg(Dithm), Heide(Holst), Husum, Niebüll: 2 l, 3 r, 4 l, 5 r

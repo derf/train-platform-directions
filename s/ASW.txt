@@ -1,0 +1,5 @@
+1 A l
+3 A r
+
+@ Owschlag, Rendsburg, Neumünster, Hamburg-Dammtor, Hamburg Hbf: 1 r, 2 l
+@ Jübek, Flensburg-Weiche, Flensburg, Padborg st: 1 l, 3 r
