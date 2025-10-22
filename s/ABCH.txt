@@ -1,0 +1,7 @@
+1 A r
+4 A l
+
+@ Müssen, Schwarzenbek, Hamburg-Bergedorf, Hamburg Hbf: 1 r, 4 l, 40 r, 41 l, 140 l
+@ Schwanheide, Boizenburg(Elbe), Ludwigslust: 1 l, 4 r
+@ Lauenburg(Elbe), Lüneburg: 40 l, 41 r, 140 r
+@ Mölln(Lauenb), Ratzeburg, Lübeck Hbf: 40 r, 41 l, 140 l

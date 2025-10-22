@@ -1,0 +1,7 @@
+1 A l
+2 A r
+3 A l
+4 A r
+
+@ Nortorf, Neumünster, Hamburg-Dammtor, Hamburg Hbf, Schülldorf, Felde, Kiel-Hassee CITTI-PARK, Kiel Hbf: 1 r, 2 l, 3 r, 4 l
+@ Owschlag, Schleswig, Jübek, Flensburg-Weiche, Flensburg, Padborg st: 1 l, 2 r, 3 l, 4 r

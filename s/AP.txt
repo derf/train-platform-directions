@@ -1,0 +1,5 @@
+1 K r
+2 K l
+
+@ Hamburg-Altona, Hamburg-Dammtor, Hamburg Hbf: 3 r, 4 l, 5 r
+@ Prisdorf, Tornesch, Elmshorn, Neumünster, Itzehoe: 3 l, 4 r, 5 l
