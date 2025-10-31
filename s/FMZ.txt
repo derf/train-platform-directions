@@ -1,0 +1,11 @@
+13 K l
+11 K r
+1 A r
+2 A l
+3 A r
+4 A l
+5 A r
+6 A l
+8 A r
+@ Mainz Römisches Theater, Mainz-Bischofsheim, Rüsselsheim, Frankfurt(M) Flughafen Fernbf, Frankfurt(M) Flughafen Regionalbf, Worms Hbf, Ludwigshafen(Rhein) Hbf, Ludwigshafen(Rhein) Mitte, Mannheim Hbf: 1 r, 2 l, 3 r, 4 l, 5 r, 6 l, 8 r
+@ Wiesbaden Hbf, Mainz Nord, Mainz-Mombach, Heidesheim(Rheinhess), Ingelheim, Bingen(Rhein) Hbf, Bad Kreuznach, Mainz Waggonfabrik, Mainz-Gonsenheim, Nieder Olm, Alzey, Hochheim(Main), Frankfurt-Höchst: 13 l, 11 r, 1 l, 2 r, 3 l, 4 r, 5 l, 6 r, 8 l
