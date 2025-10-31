@@ -1,0 +1,7 @@
+ 1 A l
+1a K l
+ 2 A r
+ 3 A l
+
+@ Tornesch, Pinneberg, Hamburg-Altona, Hamburg-Dammtor, Hamburg Hbf, Hamburg-Harburg: 1 r, 2 l, 3 r
+@ Horst(Holst), Wrist, Neumünster, Glückstadt, Itzehoe, Heide (Holst), Husum, Westerland(Sylt): 1 l, 2 r, 3 l

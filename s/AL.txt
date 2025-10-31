@@ -1,0 +1,11 @@
+1 A r
+2 A l
+4 A r
+5 A l
+6 A r
+7 A l
+8 A r
+9 A l
+
+@ Lübeck-Moisling, Reinfeld(Holst), Bad Oldesloe, Ahrensburg, Hamburg Hasselbrook, Hamburg Hbf, Hamburg-Harburg, Lübeck Hochschulstadtteil, Ratzeburg, Büchen, Lübeck St Jürgen, Herrnburg, Bad Kleinen: 1 l, 2 r, 4 l, 5 r, 6 l, 7 r, 8 l, 9 r
+@ Bad Schwartau, Eutin, Kiel Hbf, Lübeck-Dänischburg IKEA, Lübeck-Travemünde Strand: 1 r, 2 l, 4 r, 5 l, 6 r, 7 l, 8 r, 9 l

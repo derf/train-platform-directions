@@ -1,0 +1,8 @@
+ 1 K l
+2a K r
+2b K r
+ 3 K l
+ 4 K r
+ 5 K l
+6a K r
+6b K r
